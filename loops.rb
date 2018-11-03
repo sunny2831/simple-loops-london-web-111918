@@ -8,4 +8,4 @@ def loop_iterator(number_of_times)
   end
 end
 
-loop_iterator(10)
+loop_iterator(7)
